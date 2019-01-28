@@ -39,10 +39,19 @@
             </plugin>
         </plugins>
     </build>
+    <developers>
+        <developer>
+            <name>Yordan Dimitrov</name>
+            <email>yordan.di.dimitrov@gmail.com</email>
+            <organization>YDDimitrov</organization>
+            <organizationUrl>https://github.com/yddimitrov</organizationUrl>
+        </developer>
+    </developers>
     <scm>
         <developerConnection>
             scm:git:git@github.com:springframeworkguru/spring5-di-demo.git
         </developerConnection>
+        <url>https://github.com/org/repo</url>
       <tag>spring-pet-clinic-0.0.2</tag>
   </scm>
 </project>
